@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-18T20:27:52 AEDT" name="Suite" finished-at="2024-01-18T20:32:17 AEDT" duration-ms="265003">
+    <groups>
+    </groups>
+    <test started-at="2024-01-18T20:27:52 AEDT" name="Test" finished-at="2024-01-18T20:32:17 AEDT" duration-ms="265003">
+      <class name="testCase.TestCase3">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TestCase3@36916eb0]" started-at="2024-01-18T20:32:01 AEDT" name="setup" finished-at="2024-01-18T20:32:07 AEDT" duration-ms="5644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="buyItems()[pri:0, instance:testCase.TestCase3@36916eb0]" started-at="2024-01-18T20:32:07 AEDT" name="buyItems" finished-at="2024-01-18T20:32:17 AEDT" duration-ms="9978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyItems -->
+        <test-method is-config="true" signature="end()[pri:0, instance:testCase.TestCase3@36916eb0]" started-at="2024-01-18T20:32:17 AEDT" name="end" finished-at="2024-01-18T20:32:17 AEDT" duration-ms="368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- testCase.TestCase3 -->
+      <class name="testCase.TestCase2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TestCase2@21282ed8]" started-at="2024-01-18T20:30:46 AEDT" name="setup" finished-at="2024-01-18T20:30:52 AEDT" duration-ms="6083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SubmitFeedback()[pri:0, instance:testCase.TestCase2@21282ed8]" started-at="2024-01-18T20:30:52 AEDT" name="SubmitFeedback" finished-at="2024-01-18T20:31:01 AEDT" duration-ms="8609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitFeedback -->
+        <test-method is-config="true" signature="end()[pri:0, instance:testCase.TestCase2@21282ed8]" started-at="2024-01-18T20:31:01 AEDT" name="end" finished-at="2024-01-18T20:31:01 AEDT" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TestCase2@21282ed8]" started-at="2024-01-18T20:31:01 AEDT" name="setup" finished-at="2024-01-18T20:31:07 AEDT" duration-ms="5786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SubmitFeedback()[pri:0, instance:testCase.TestCase2@21282ed8]" started-at="2024-01-18T20:31:07 AEDT" name="SubmitFeedback" finished-at="2024-01-18T20:31:15 AEDT" duration-ms="8459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitFeedback -->
+        <test-method is-config="true" signature="end()[pri:0, instance:testCase.TestCase2@21282ed8]" started-at="2024-01-18T20:31:15 AEDT" name="end" finished-at="2024-01-18T20:31:16 AEDT" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TestCase2@21282ed8]" started-at="2024-01-18T20:31:16 AEDT" name="setup" finished-at="2024-01-18T20:31:22 AEDT" duration-ms="5760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SubmitFeedback()[pri:0, instance:testCase.TestCase2@21282ed8]" started-at="2024-01-18T20:31:22 AEDT" name="SubmitFeedback" finished-at="2024-01-18T20:31:30 AEDT" duration-ms="8596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitFeedback -->
+        <test-method is-config="true" signature="end()[pri:0, instance:testCase.TestCase2@21282ed8]" started-at="2024-01-18T20:31:30 AEDT" name="end" finished-at="2024-01-18T20:31:30 AEDT" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TestCase2@21282ed8]" started-at="2024-01-18T20:31:30 AEDT" name="setup" finished-at="2024-01-18T20:31:36 AEDT" duration-ms="5828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SubmitFeedback()[pri:0, instance:testCase.TestCase2@21282ed8]" started-at="2024-01-18T20:31:36 AEDT" name="SubmitFeedback" finished-at="2024-01-18T20:31:45 AEDT" duration-ms="8845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitFeedback -->
+        <test-method is-config="true" signature="end()[pri:0, instance:testCase.TestCase2@21282ed8]" started-at="2024-01-18T20:31:45 AEDT" name="end" finished-at="2024-01-18T20:31:46 AEDT" duration-ms="371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TestCase2@21282ed8]" started-at="2024-01-18T20:31:46 AEDT" name="setup" finished-at="2024-01-18T20:31:52 AEDT" duration-ms="5960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SubmitFeedback()[pri:0, instance:testCase.TestCase2@21282ed8]" started-at="2024-01-18T20:31:52 AEDT" name="SubmitFeedback" finished-at="2024-01-18T20:32:01 AEDT" duration-ms="9088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitFeedback -->
+        <test-method is-config="true" signature="end()[pri:0, instance:testCase.TestCase2@21282ed8]" started-at="2024-01-18T20:32:01 AEDT" name="end" finished-at="2024-01-18T20:32:01 AEDT" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- testCase.TestCase2 -->
+      <class name="testCase.TestCase1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TestCase1@3b6ddd1d]" started-at="2024-01-18T20:27:52 AEDT" name="setup" finished-at="2024-01-18T20:28:01 AEDT" duration-ms="9166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateErrors()[pri:0, instance:testCase.TestCase1@3b6ddd1d]" started-at="2024-01-18T20:28:01 AEDT" name="validateErrors" finished-at="2024-01-18T20:30:46 AEDT" duration-ms="164581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateErrors -->
+        <test-method is-config="true" signature="end()[pri:0, instance:testCase.TestCase1@3b6ddd1d]" started-at="2024-01-18T20:30:46 AEDT" name="end" finished-at="2024-01-18T20:30:46 AEDT" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- testCase.TestCase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
